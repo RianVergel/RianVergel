@@ -1,5 +1,4 @@
-<h2>Rian Aqui! 👾</h2>
-<hr>
+<h2>Rian Vergel 👾</h2>
 
 <h3>
 💻| Técnico em Informática
@@ -24,4 +23,4 @@
 
 <hr>
 
-<h4>God Bless You 😁</h4>
+<h4>Jesus Loves You 😁</h4>
